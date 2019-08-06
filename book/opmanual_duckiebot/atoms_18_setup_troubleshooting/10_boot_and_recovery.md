@@ -50,6 +50,7 @@ install avrdude and gcc with:
 Copy the avrdude config file with:
 
     duckiebot $ cd ~/Software/hardware/software
+    duckiebot $ cd _avrdudeconfig
     duckiebot $ sudo cp avrdude.conf /etc/avrdude.conf
 
 Test avrdude and set fuses with:
